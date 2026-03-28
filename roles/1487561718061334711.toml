@@ -1,5 +1,5 @@
-id = 1043616890792185888
-name = 'Smash'
+id = 1487561718061334711
+name = 'test'
 permissions.'Manage Server' = false
 permissions.'Manage Webhooks' = false
 permissions.'Send Messages' = true
@@ -60,7 +60,7 @@ secondaryColor = 536870911
 tertiaryColor = 536870911
 mentionable = false
 hoist = false
-position = 15
+position = 0
 managed = false
 publicRole = false
 botId = 0
