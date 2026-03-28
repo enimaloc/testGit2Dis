@@ -1,0 +1,11 @@
+id = 1487565145797558353
+type = 'text'
+name = 'a'
+position = 26
+parentCategoryId = 1487241956156506122
+positionInCategory = 0
+memberOverride = {}
+roleOverride = {}
+topic = ''
+slowmode = 0
+nsfw = false
