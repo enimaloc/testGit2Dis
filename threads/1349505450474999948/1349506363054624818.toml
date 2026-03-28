@@ -1,0 +1,13 @@
+id = 1349506363054624818
+type = 'thread'
+name = 'Jeu Mercredline'
+parentChannelId = 1349505450474999948
+archived = true
+locked = false
+autoArchiveDurationMinutes = 10080
+memberIds = []
+pinned = false
+invitable = false
+appliedTags = ['pole event online']
+ownerId = 136200628509605888
+_public = true

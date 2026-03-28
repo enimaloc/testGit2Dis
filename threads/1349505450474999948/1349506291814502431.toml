@@ -1,0 +1,13 @@
+id = 1349506291814502431
+type = 'thread'
+name = 'Image de jeu'
+parentChannelId = 1349505450474999948
+archived = true
+locked = false
+autoArchiveDurationMinutes = 10080
+memberIds = []
+pinned = false
+invitable = false
+appliedTags = ['pole graphisme']
+ownerId = 136200628509605888
+_public = true
