@@ -1,5 +1,5 @@
 id = 1487561718061334711
-name = 'nouveau rôle'
+name = 'test'
 permissions.'Manage Server' = false
 permissions.'Manage Webhooks' = false
 permissions.'Send Messages' = true
