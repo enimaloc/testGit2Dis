@@ -1,7 +1,7 @@
 id = 1325658385139630111
 type = 'category'
 name = 'EsportLineBot - Tournament'
-position = 19
+position = 17
 memberOverride = {}
 roleOverride.1326283933813309510.'Manage Server' = 0
 roleOverride.1326283933813309510.'Manage Webhooks' = 0

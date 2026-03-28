@@ -1,7 +1,7 @@
 id = 1275974493193637890
 type = 'text'
 name = 'général-1'
-position = 24
+position = 22
 parentCategoryId = 1275974452286460104
 positionInCategory = 0
 memberOverride.0.'Manage Server' = 0

@@ -1,9 +1,9 @@
 id = 1169439177251762346
 type = 'text'
 name = 'wakfu-jobs'
-position = 11
+position = 10
 parentCategoryId = 1038139686767579186
-positionInCategory = 7
+positionInCategory = 6
 memberOverride = {}
 roleOverride.1167521569745162400.'Manage Server' = 0
 roleOverride.1167521569745162400.'Manage Webhooks' = 0

@@ -1,7 +1,7 @@
 id = 1169007516164825128
 type = 'category'
 name = 'esportlinebot - wakfu.party'
-position = 21
+position = 19
 memberOverride = {}
 roleOverride.1167521569745162400.'Manage Server' = 0
 roleOverride.1167521569745162400.'Manage Webhooks' = 0

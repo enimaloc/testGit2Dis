@@ -1,7 +1,7 @@
 id = 1053001996157857883
 type = 'category'
 name = 'eSportLine Bot - Temp channel'
-position = 20
+position = 18
 memberOverride.0.'Manage Server' = 0
 memberOverride.0.'Manage Webhooks' = 0
 memberOverride.0.'Send Messages' = 0

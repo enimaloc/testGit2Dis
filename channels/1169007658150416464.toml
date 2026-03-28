@@ -1,7 +1,7 @@
 id = 1169007658150416464
 type = 'text'
 name = 'parties'
-position = 22
+position = 20
 parentCategoryId = 1169007516164825128
 positionInCategory = 0
 memberOverride = {}

@@ -1,9 +1,9 @@
 id = 1186407951716597780
 type = 'text'
 name = 'twitch-notifier'
-position = 12
+position = 11
 parentCategoryId = 1038139686767579186
-positionInCategory = 8
+positionInCategory = 7
 memberOverride.0.'Manage Server' = 0
 memberOverride.0.'Manage Webhooks' = 0
 memberOverride.0.'Send Messages' = 0
