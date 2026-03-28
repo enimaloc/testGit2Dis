@@ -1,8 +1,8 @@
-id = 1466621470796152929
+id = 796152929
 type = 'text'
 name = 'lol'
 position = 15
-parentCategoryId = 1038139686767579186
+parentCategoryId = 1487570133718405260
 positionInCategory = 11
 memberOverride.0.'Manage Server' = 0
 memberOverride.0.'Manage Webhooks' = 0

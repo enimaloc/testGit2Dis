@@ -1,8 +1,8 @@
-id = 1325571540691058780
+id = 691058780
 type = 'text'
 name = 'tournament-signin'
 position = 14
-parentCategoryId = 1038139686767579186
+parentCategoryId = 1487570133718405260
 positionInCategory = 10
 memberOverride.0.'Manage Server' = 0
 memberOverride.0.'Manage Webhooks' = 0

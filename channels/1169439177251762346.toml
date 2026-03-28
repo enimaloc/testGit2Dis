@@ -1,8 +1,8 @@
-id = 1169439177251762346
+id = 7251762346
 type = 'text'
 name = 'wakfu-jobs'
 position = 10
-parentCategoryId = 1038139686767579186
+parentCategoryId = 1487570133718405260
 positionInCategory = 6
 memberOverride = {}
 roleOverride.1167521569745162400.'Manage Server' = 0

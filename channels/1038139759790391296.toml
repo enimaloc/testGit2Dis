@@ -1,8 +1,8 @@
-id = 1038139759790391296
+id = 9790391296
 type = 'text'
 name = 'smash-command'
 position = 7
-parentCategoryId = 1038139686767579186
+parentCategoryId = 1487570133718405260
 positionInCategory = 3
 memberOverride = {}
 roleOverride.1043616890792185888.'Manage Server' = 0

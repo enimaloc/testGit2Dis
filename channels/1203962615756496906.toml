@@ -1,8 +1,8 @@
-id = 1203962615756496906
+id = 5756496906
 type = 'text'
 name = 'smash'
 position = 12
-parentCategoryId = 1038139686767579186
+parentCategoryId = 1487570133718405260
 positionInCategory = 8
 memberOverride.0.'Manage Server' = 0
 memberOverride.0.'Manage Webhooks' = 0

@@ -1,8 +1,8 @@
-id = 1275974493193637890
+id = 3193637890
 type = 'text'
 name = 'général-1'
 position = 22
-parentCategoryId = 1275974452286460104
+parentCategoryId = 1487570144866730046
 positionInCategory = 0
 memberOverride.0.'Manage Server' = 0
 memberOverride.0.'Manage Webhooks' = 0

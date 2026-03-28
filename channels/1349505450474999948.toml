@@ -1,8 +1,8 @@
-id = 1349505450474999948
+id = 474999948
 type = 'forum'
 name = 'suggestion'
 position = 6
-parentCategoryId = 1038139686767579186
+parentCategoryId = 1487570133718405260
 positionInCategory = 2
 memberOverride = {}
 roleOverride.1038139412753694814.'Manage Server' = 0

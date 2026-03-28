@@ -1,8 +1,8 @@
-id = 1052749510645907527
+id = 645907527
 type = 'voice'
 name = 'temp Channel'
 position = 16
-parentCategoryId = 1038139686767579186
+parentCategoryId = 1487570133718405260
 positionInCategory = 12
 memberOverride.0.'Manage Server' = 0
 memberOverride.0.'Manage Webhooks' = 0

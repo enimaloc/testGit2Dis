@@ -1,8 +1,8 @@
-id = 1169007658150416464
+id = 8150416464
 type = 'text'
 name = 'parties'
 position = 20
-parentCategoryId = 1169007516164825128
+parentCategoryId = 1487570134750068786
 positionInCategory = 0
 memberOverride = {}
 roleOverride.1167521569745162400.'Manage Server' = 0
