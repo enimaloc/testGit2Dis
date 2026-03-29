@@ -1,0 +1,11 @@
+id = 1487570153024786482
+type = 'text'
+name = 'bdsmtest'
+position = 24
+parentCategoryId = 1487570137707057323
+positionInCategory = 0
+memberOverride = {}
+roleOverride = {}
+topic = ''
+slowmode = 0
+nsfw = true

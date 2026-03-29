@@ -1,0 +1,11 @@
+id = 1487570147966189752
+type = 'voice'
+name = 'a'
+position = 2
+parentCategoryId = 0
+positionInCategory = -1
+memberOverride = {}
+roleOverride = {}
+bitrate = 64000
+userLimit = 0
+region = 'automatic'
