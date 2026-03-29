@@ -1,7 +1,7 @@
 id = 1487570164462387280
 type = 'forum'
 name = 'suggestion'
-position = 8
+position = 7
 parentCategoryId = 1487570133718405260
 positionInCategory = 2
 memberOverride = {}
